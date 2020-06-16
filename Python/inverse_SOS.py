@@ -20,7 +20,7 @@ npar = 2 * lyr - 1  # number of parameter model
 
 # Model space
 npop = 50  # number of populations
-ngen = 300  # number of iteration/generation
+ngen = 50  # number of iteration/generation
 r_min = 1  # minimum value of resistivity
 r_max = 2000  # maximum value of resistivity
 h_min = 200  # minimum value of thickness

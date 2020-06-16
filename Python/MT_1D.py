@@ -1,4 +1,6 @@
-"""Function for MT 1-D"""
+"""
+Function for MT 1-D
+"""
 
 import numpy as np
 import math as m
